@@ -1,10 +1,10 @@
 /* Base Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f0e4d7;
+    background-color: #CCD5AE;
     /* Soft beige background */
 }
 
@@ -45,7 +45,7 @@ h2 {
 
 /* Contact Details */
 #contact {
-    float: right;
+    float: left;
     /* Positioned to the right */
     width: 30%;
     /* Taking 30% width of the container */
@@ -93,4 +93,14 @@ h2 {
 
 #experience article p {
     margin: 5px 0;
+}
+
+/* Certifications */
+#certifications li {
+    list-style-type: none;
+    margin: 5px 0;
+    border-left: 5px solid #3498db;
+    /* Blue border on the left */
+    padding-left: 10px;
+    /* Spacing between the border and text */
 }
