@@ -18,6 +18,12 @@ body {
     /* Soft shadow for the CV */
 }
 
+#student-picture {
+    width: 120px; /* O el tamaño que prefieras */
+    height: auto;
+    align-self: flex-end; /* Alinea la imagen a la derecha */
+}
+
 header {
     text-align: center;
     border-bottom: 3px solid #3498db;
@@ -40,6 +46,8 @@ h2 {
     border-bottom: 1px solid #eee;
     padding-bottom: 10px;
     color: #2c3e50;
+    text-decoration: underline;
+    
     /* Dark blue shade for section titles */
 }
 
