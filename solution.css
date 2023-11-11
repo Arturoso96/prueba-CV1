@@ -149,13 +149,15 @@ h2 {
 }
 
 /* Experience */
+
+/* Estilo para los artículos dentro de la sección de experiencia */
+
 #experience article {
+    background-color: #fff; /* Fondo blanco para los artículos */
     margin: 10px 0;
     padding: 10px;
-
-    /* Light gray background */
     border-radius: 5px;
-    /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
 }
 
 #experience article h3 {
