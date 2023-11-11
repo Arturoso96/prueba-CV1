@@ -19,10 +19,15 @@ body {
 }
 
 #student-picture {
-    width: 300px; /* O el tamaño que prefieras */
+    width: 350px; /* O el tamaño que prefieras */
     height: 350px;
     float: right; /* Alinea la imagen a la derecha */
     margin-left: 15px;
+}
+
+a:hover {
+    color: #060c10; /* Cambia a un color diferente */
+    text-decoration: underline;
 }
 
 header {
@@ -70,7 +75,19 @@ h2 {
 }
 
 #education {
-    background-color: #f0f8ff; /* Un azul claro muy sutil */
+    background-color: #88adce; /* Un azul claro muy sutil */
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#experience {
+    background-color: #88adce; /* Un azul claro muy sutil */
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#certifications {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 15px;
     border-radius: 5px;
 }
