@@ -100,12 +100,19 @@ h2 {
 }
 
 .skill-bar {
-    height: 20px;
+    height: 12px;
     background-color: #152531; /* Color azul a juego con tu esquema */
     text-align: right;
-    line-height: 20px;
+    line-height: 12px;
     color: white;
     border-radius: 5px; /* Bordes redondeados para la barra */
+}
+.skill-percentage {
+    position: absolute;
+    right: 5px;
+    top: 0;
+    color: white;
+    font-size: 12px;
 }
 
 /* Experience */
