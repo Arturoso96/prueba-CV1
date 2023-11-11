@@ -19,9 +19,10 @@ body {
 }
 
 #student-picture {
-    width: 120px; /* O el tamaño que prefieras */
-    height: auto;
-    align-self: flex-end; /* Alinea la imagen a la derecha */
+    width: 300px; /* O el tamaño que prefieras */
+    height: 350;
+    float: right; /* Alinea la imagen a la derecha */
+    margin-left: 20px;
 }
 
 header {
