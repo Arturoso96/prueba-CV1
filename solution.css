@@ -80,6 +80,15 @@ h2 {
     border-radius: 5px;
 }
 
+/* Estilo para los elementos <p> dentro de la sección de educación */
+#education p {
+    background-color: #fff; /* Fondo blanco para los párrafos */
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Opcional: añade una sombra suave */
+}
+
 #experience {
     background-color: #88adce; /* Un azul claro muy sutil */
     padding: 15px;
@@ -87,7 +96,7 @@ h2 {
 }
 
 #certifications {
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(244, 7, 7, 0.1);
     padding: 15px;
     border-radius: 5px;
 }
