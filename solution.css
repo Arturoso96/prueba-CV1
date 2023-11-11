@@ -95,6 +95,22 @@ h2 {
     border-radius: 5px;
 }
 
+#experience article {
+    background-color: #fff; /* Fondo blanco para los artículos */
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
+#experience article h3 {
+    margin-top: 0;
+}
+
+#experience article p {
+    margin: 5px 0;
+}
+
 #certifications {
     box-shadow: 0 4px 8px rgba(244, 7, 7, 0.1);
     padding: 15px;
@@ -151,22 +167,6 @@ h2 {
 /* Experience */
 
 /* Estilo para los artículos dentro de la sección de experiencia */
-
-#experience article {
-    background-color: #fff; /* Fondo blanco para los artículos */
-    margin: 10px 0;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
-}
-
-#experience article h3 {
-    margin-top: 0;
-}
-
-#experience article p {
-    margin: 5px 0;
-}
 
 /* Certifications */
 #certifications li {
