@@ -20,7 +20,7 @@ body {
 
 #student-picture {
     width: 300px; /* O el tamaño que prefieras */
-    height: 350;
+    height: 350px;
     float: right; /* Alinea la imagen a la derecha */
     margin-left: 20px;
 }
