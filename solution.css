@@ -19,8 +19,8 @@ body {
 }
 
 #student-picture {
-    width: 350px; /* O el tamaño que prefieras */
-    height: 350px;
+    width: 330px; /* O el tamaño que prefieras */
+    height: 300px;
     float: right; /* Alinea la imagen a la derecha */
     margin-left: 15px;
 }
