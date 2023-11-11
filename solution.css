@@ -69,6 +69,12 @@ h2 {
     /* Spacing between the border and text */
 }
 
+#education {
+    background-color: #f0f8ff; /* Un azul claro muy sutil */
+    padding: 15px;
+    border-radius: 5px;
+}
+
 /* Clearing the floats for the sections below the contact */
 #education,
 #skills,
